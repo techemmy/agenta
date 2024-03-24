@@ -37,7 +37,7 @@
         "eslint": "8.39.0",
         "eslint-config-next": "13.3.4",
         "js-beautify": "^1.14.8",
-        "next": "13.3.4",
+        "next": "13.5.6",
         "nextjs-cors": "^2.1.2",
         "postcss": "8.4.23",
         "posthog-js": "^1.77.2",
